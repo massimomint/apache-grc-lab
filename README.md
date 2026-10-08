@@ -1,7 +1,8 @@
 # apache-grc-lab
 Practical GRC and cybersecurity lab built around an Apache web server
 
-## Obiettivo
-Creare e configurare un server Apache come asset centrale di un laboratorio pratico di GRC e sicurezza informatica.
+##  Objective
 
-Il laboratorio verrà utilizzato per applicare metodologie di gestione del rischio, valutazione delle vulnerabilità e implementazione dei controlli di sicurezza. In una fase successiva, il server sarà utilizzato anche come ambiente controllato per attività di penetration testing a scopo didattico.
+Create and configure an Apache server as the central asset of a practical GRC and cybersecurity laboratory.
+
+The lab will be used to apply risk management, vulnerability assessment, and security control practices. At a later stage, the server will also be used as a controlled and authorized environment for educational penetration testing activities.
